@@ -293,4 +293,5 @@ We will now transfer the file **/home/sourcefiles/sourcefile.txt** to the destin
 ---
 ### Conclusion
 {: #mft_containers_conclusion}
+
 As part of this document we have created a customized MQ image for MFT, started MFT agents in containers and demonstrated that file transfer runs between the agents in containers and transferred file exists in destination agent.
